@@ -1,0 +1,12 @@
+# Arquivos compilados Java
+*.class
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
